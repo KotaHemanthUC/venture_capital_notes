@@ -12,3 +12,6 @@ Model State :
 
 Investor Expectations :
 - https://www.theguardian.com/globalcleantech100/supplement1 : Seems they won't invest in India. Expecting 5 usd for 1 usd when they sit on global data. 
+2014 Investor list of Europe :
+Learnt about Y-Comb of today and 2014 Europe Options for getting seed funding 
+- https://www.theguardian.com/technology/2014/nov/12/what-is-a-tech-accelerator-and-which-are-the-best-in-europe
